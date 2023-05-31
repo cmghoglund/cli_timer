@@ -1,3 +1,5 @@
+# Simple timer that works in the terminal
+
 import time
 
 def timer(seconds):
